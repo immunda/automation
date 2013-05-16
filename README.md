@@ -1,0 +1,4 @@
+automation
+==========
+
+Vagrant & KVM tinkering
